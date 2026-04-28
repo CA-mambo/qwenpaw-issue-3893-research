@@ -1,0 +1,46 @@
+C:\Users\11938\.qwenpaw\qwenpaw.log:50912:2026-04-28 06:03:17 | WARNING | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\utils\tool_message_utils.py:303 | Failed to repair 
+tool_use input from raw_input: id=call_c97dda83281e4c91b7e461d0, name=write_file, error=Unterminated string starting 
+at: line 1 column 13 (char 12)
+C:\Users\11938\.qwenpaw\qwenpaw.log:50932:2026-04-28 06:03:36 | WARNING | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\utils\tool_message_utils.py:303 | Failed to repair 
+tool_use input from raw_input: id=call_c97dda83281e4c91b7e461d0, name=write_file, error=Unterminated string starting 
+at: line 1 column 13 (char 12)
+C:\Users\11938\.qwenpaw\qwenpaw.log:50944:2026-04-28 06:03:45 | WARNING | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\utils\tool_message_utils.py:303 | Failed to repair 
+tool_use input from raw_input: id=call_c97dda83281e4c91b7e461d0, name=write_file, error=Unterminated string starting 
+at: line 1 column 13 (char 12)
+C:\Users\11938\.qwenpaw\qwenpaw.log:50960:2026-04-28 06:03:55 | WARNING | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\utils\tool_message_utils.py:303 | Failed to repair 
+tool_use input from raw_input: id=call_c97dda83281e4c91b7e461d0, name=write_file, error=Unterminated string starting 
+at: line 1 column 13 (char 12)
+C:\Users\11938\.qwenpaw\qwenpaw.log:50961:2026-04-28 06:04:06 | WARNING | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\utils\tool_message_utils.py:303 | Failed to repair 
+tool_use input from raw_input: id=call_c97dda83281e4c91b7e461d0, name=write_file, error=Unterminated string starting 
+at: line 1 column 13 (char 12)
+C:\Users\11938\.qwenpaw\qwenpaw.log:51464:2026-04-28 06:13:14 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\runner\runner.py:335 | Handle agent query:
+C:\Users\11938\.qwenpaw\qwenpaw.log:51472:2026-04-28 06:13:16 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\react_agent.py:167 | Agent 'default' initialized with 
+model: global-fallback (class: RetryChatModel)
+C:\Users\11938\.qwenpaw\qwenpaw.log:51474:2026-04-28 06:13:16 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\react_agent.py:1257 | QwenPawAgent.reply: max_iters=200
+C:\Users\11938\.qwenpaw\qwenpaw.log:51494:2026-04-28 06:16:56 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\context\as_msg_handler.py:363 | Context check result: 
+448 messages to compact, 73 messages to keep, total tokens: 207792, threshold: 205690, reserve: 26214, kept tokens: 
+26104, tools_aligned: True
+C:\Users\11938\.qwenpaw\qwenpaw.log:51495:2026-04-28 06:16:56 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\memory\base_memory_manager.py:139 | Summary task task_9 
+started
+C:\Users\11938\.qwenpaw\qwenpaw.log:51496:2026-04-28 06:16:57 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\context\light_context_manager.py:455 | Compacting 
+context... 207792 tokens -> 26104 tokens.
+C:\Users\11938\.qwenpaw\qwenpaw.log:51507:2026-04-28 06:16:58 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\context\light_context_manager.py:498 | Context 
+compaction summary generation started.
+C:\Users\11938\.qwenpaw\qwenpaw.log:51542:2026-04-28 06:17:25 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\context\light_context_manager.py:535 | Context 
+compaction summary generated: 'The user wants to update the README to feature the moving sun animation...'
+C:\Users\11938\.qwenpaw\qwenpaw.log:51543:2026-04-28 06:17:25 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\agents\memory\base_memory_manager.py:147 | Summary task task_9 
+finished.
