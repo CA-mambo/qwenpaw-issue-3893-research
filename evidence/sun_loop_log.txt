@@ -1,0 +1,73 @@
+C:\Users\11938\.qwenpaw\qwenpaw.log:50897:2026-04-28 06:03:02 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1745 | feishu 
+_get_receive_for_send: from meta receive_id_type=open_id
+C:\Users\11938\.qwenpaw\qwenpaw.log:50898:2026-04-28 06:03:02 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1833 | feishu 
+send_content_parts: resolved receive_id_type=open_id receive_id=ou_1f65ad3daba8547ce...
+C:\Users\11938\.qwenpaw\qwenpaw.log:50899:2026-04-28 06:03:02 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1864 | feishu 
+send_content_parts: to_handle=feishu:sw:5b2cefad text_parts=1 media_count=0 media_types=[]
+C:\Users\11938\.qwenpaw\qwenpaw.log:50900:2026-04-28 06:03:02 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1477 | feishu _send_message: 
+msg_type=post receive_id_type=open_id content_len=1069
+C:\Users\11938\.qwenpaw\qwenpaw.log:50901:2026-04-28 06:03:04 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1508 | feishu _send_message ok: 
+msg_type=post msg_id=om_x100b51c99f46b4a0c220
+C:\Users\11938\.qwenpaw\qwenpaw.log:50902:2026-04-28 06:03:04 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1745 | feishu 
+_get_receive_for_send: from meta receive_id_type=open_id
+C:\Users\11938\.qwenpaw\qwenpaw.log:50903:2026-04-28 06:03:04 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1833 | feishu 
+send_content_parts: resolved receive_id_type=open_id receive_id=ou_1f65ad3daba8547ce...
+C:\Users\11938\.qwenpaw\qwenpaw.log:50904:2026-04-28 06:03:04 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1864 | feishu 
+send_content_parts: to_handle=feishu:sw:5b2cefad text_parts=1 media_count=0 media_types=[]
+C:\Users\11938\.qwenpaw\qwenpaw.log:50905:2026-04-28 06:03:04 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1477 | feishu _send_message: 
+msg_type=post receive_id_type=open_id content_len=162
+C:\Users\11938\.qwenpaw\qwenpaw.log:50906:2026-04-28 06:03:06 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1508 | feishu _send_message ok: 
+msg_type=post msg_id=om_x100b51c99f6738a0c369
+C:\Users\11938\.qwenpaw\qwenpaw.log:50907:2026-04-28 06:03:06 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1745 | feishu 
+_get_receive_for_send: from meta receive_id_type=open_id
+C:\Users\11938\.qwenpaw\qwenpaw.log:50908:2026-04-28 06:03:06 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1833 | feishu 
+send_content_parts: resolved receive_id_type=open_id receive_id=ou_1f65ad3daba8547ce...
+C:\Users\11938\.qwenpaw\qwenpaw.log:50909:2026-04-28 06:03:06 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1864 | feishu 
+send_content_parts: to_handle=feishu:sw:5b2cefad text_parts=1 media_count=0 media_types=[]
+C:\Users\11938\.qwenpaw\qwenpaw.log:50910:2026-04-28 06:03:06 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1477 | feishu _send_message: 
+msg_type=post receive_id_type=open_id content_len=121
+C:\Users\11938\.qwenpaw\qwenpaw.log:50911:2026-04-28 06:03:17 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1508 | feishu _send_message ok: 
+msg_type=post msg_id=om_x100b51c99f80fca0c444
+C:\Users\11938\.qwenpaw\qwenpaw.log:50912:2026-04-28 06:03:17 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1745 | feishu 
+_get_receive_for_send: from meta receive_id_type=open_id
+C:\Users\11938\.qwenpaw\qwenpaw.log:50913:2026-04-28 06:03:17 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1833 | feishu 
+send_content_parts: resolved receive_id_type=open_id receive_id=ou_1f65ad3daba8547ce...
+C:\Users\11938\.qwenpaw\qwenpaw.log:50914:2026-04-28 06:03:17 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1864 | feishu 
+send_content_parts: to_handle=feishu:sw:5b2cefad text_parts=1 media_count=0 media_types=[]
+C:\Users\11938\.qwenpaw\qwenpaw.log:50915:2026-04-28 06:03:17 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1477 | feishu _send_message: 
+msg_type=post receive_id_type=open_id content_len=1069
+C:\Users\11938\.qwenpaw\qwenpaw.log:50916:2026-04-28 06:03:19 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1508 | feishu _send_message ok: 
+msg_type=post msg_id=om_x100b51c99f9a14a0c651
+C:\Users\11938\.qwenpaw\qwenpaw.log:50917:2026-04-28 06:03:19 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1745 | feishu 
+_get_receive_for_send: from meta receive_id_type=open_id
+C:\Users\11938\.qwenpaw\qwenpaw.log:50918:2026-04-28 06:03:19 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1833 | feishu 
+send_content_parts: resolved receive_id_type=open_id receive_id=ou_1f65ad3daba8547ce...
+C:\Users\11938\.qwenpaw\qwenpaw.log:50919:2026-04-28 06:03:19 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1864 | feishu 
+send_content_parts: to_handle=feishu:sw:5b2cefad text_parts=1 media_count=0 media_types=[]
+C:\Users\11938\.qwenpaw\qwenpaw.log:50920:2026-04-28 06:03:19 | INFO | 
+C:\Users\11938\.qwenpaw\venv\Lib\site-packages\qwenpaw\app\channels\feishu\channel.py:1477 | feishu _send_message: 
+msg_type=post receive_id_type=open_id content_len=162
+[...truncated for brevity, full log available in repo...]
