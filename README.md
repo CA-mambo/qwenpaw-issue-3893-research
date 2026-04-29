@@ -2,9 +2,17 @@
 
 This repository contains deep-dive analysis, root cause verification, and reproduction scripts for **QwenPaw Issue #3893** (Context Sync Race Condition).
 
+**🔒 Status: Archived / Mitigated in Official Release v1.1.5.**
+
 ## 📂 Overview
 
-During the investigation of Issue #3893 and PR #3895, we identified that the root cause of the "Context Amnesia" bug is more nuanced than a simple "Swap Order" fix. This repo provides evidence that a robust solution requires **both** our proposed logic swap **and** a Fallback mechanism.
+During the investigation of Issue #3893 and PR #3895, we identified that the root cause of the "Context Amnesia" bug was more nuanced than a simple "Swap Order" fix. This repo provides evidence that a robust solution requires **both** our proposed logic swap **and** a Fallback mechanism.
+
+### 🛡️ Official Fix (v1.1.5)
+The official team has released a "Physical Defense" mitigation in v1.1.5:
+1.  **Source Truncation**: `read_file` and other tools now enforce a `DEFAULT_MAX_BYTES` (50KB) limit.
+2.  **Post-Acting Hook**: A new `_prune_tool_result` hook runs before reasoning to strip oversized results.
+3.  **Result**: The "bomb" payload is now truncated at the source, making the underlying architectural `break` logic unreachable in standard workflows.
 
 ## 🧪 Scenarios Covered
 
@@ -44,5 +52,5 @@ python dynamic_bomb.py
 
 ## 🔗 References
 
-- **Issue:** [agentscope-ai/QwenPaw#3893](https://github.com/agentscope-ai/QwenPaw/issues/3893)
+- **Issue:** [agentscope-ai/QwenPaw#3893](https://github.com/agentscope-ai/QwenPaw/issues/3893) (Closed)
 - **PR:** [agentscope-ai/QwenPaw#3895](https://github.com/agentscope-ai/QwenPaw/pull/3895) (Closed)
